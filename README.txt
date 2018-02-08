@@ -1,5 +1,5 @@
 科技部的萌新们，希望你们自学git的使用方法，
-申请一个github帐号(github.com)，
+申请一个github帐号( https://github.com )，
 并按照下面链接中的教程进行实践操作。
 
 廖雪峰的git教程： 
